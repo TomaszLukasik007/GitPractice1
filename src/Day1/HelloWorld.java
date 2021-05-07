@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Adding GitHub Now");
         System.out.println("More lines to commit");
+        System.out.println("More line to commit and push for practice");
 
     }
 }
